@@ -13,3 +13,6 @@
     "webpack-dev-server": "^4.8.1"
   }
 }
+{
+  "license": "UNLICENSED",
+}
